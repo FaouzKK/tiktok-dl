@@ -31,7 +31,7 @@ npm install @faouzkk/tiktok-dl
 Here’s a quick example of how to use the module:
 
 ```js
-const tiktokdl = require('tiktok-video-downloader');
+const tiktokdl = require('@faouzkk/tiktok-dl');
 
 (async () => {
     const tiktok = await tiktokdl('https://www.tiktok.com/@.tobi.uchiha_/video/7317012349897002245?is_from_webapp=1&sender_device=pc&web_id=7408654694422414854');
